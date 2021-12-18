@@ -1,3 +1,6 @@
+[Crafting Interpreters](http://craftinginterpreters.com)의 한국어 번역 프로젝트입니다.
+[Crowdin 링크](https://crowdin.com/project/crafting-interpreters)
+
 This is the repo used for the in-progress book "[Crafting Interpreters][]". It
 contains the Markdown text of the book, full implementations of both
 interpreters, as well as the build system to weave the two together into the
